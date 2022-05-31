@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T09:42:09.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="PEUcE2Skgot8M_twbs1v" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-31T09:51:33.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="CgI9aiXAFqwHUcsJBJMC" version="18.1.3" type="github">
   <diagram id="QK5HZa1A7j3AK8uBIgSm" name="Page-1">
-    <mxGraphModel dx="5434" dy="2960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1811" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,6 +215,9 @@
         </mxCell>
         <mxCell id="Jh9w8bnK9WFqr1PcukGp-21" value="ReusEd App" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="680" y="90" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="92DZvjBUoSbnvdPxQlaV-1" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;SYNC&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" y="1965" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
